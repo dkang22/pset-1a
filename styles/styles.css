@@ -5,15 +5,18 @@
 
 
 header {
-  color: 	#E194F9;
+  color: 	#FEFEFE;
   font-size: 40;
-  background-color: #FEFEFE;
+  background-color: #8EE3F9;
   text-align: center;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 body {
-  background-color: #E194F9;
-  color: #FEFEFE;
+  background-color: #FEFEAA;
+  font-size: 30;
+  color: #64BCEF;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 p {
@@ -23,4 +26,9 @@ p {
 
 h2 {
   text-align: center;
+  font-size: 45px;
+}
+
+.section-difficulty {
+
 }
