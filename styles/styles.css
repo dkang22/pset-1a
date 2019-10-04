@@ -1,11 +1,26 @@
 * {
     margin: 0;
-    padding: 40:
+    padding: 0:
 }
 
 
 header {
-  color: 	#00FFFF;
+  color: 	#E194F9;
   font-size: 40;
-  background-color: #B894F0;
+  background-color: #FEFEFE;
+  text-align: center;
+}
+
+body {
+  background-color: #E194F9;
+  color: #FEFEFE;
+}
+
+p {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h2 {
+  text-align: center;
 }
