@@ -84,6 +84,10 @@ footer {
   font-size: 14px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .section-header {
   font-size: 24px;
   text-decoration: underline;
