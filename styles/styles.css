@@ -129,66 +129,30 @@ footer p {
   font-weight: lighter;
 }
 
-a[href="https://silpat.com/"] {
-  color: #A4A4A4;
-}
-
-a[href="https://www.ucvts.tec.nj.us"] {
-  color: #A4A4A4;
-}
-
+a[href="https://silpat.com/"],
+a[href="https://www.ucvts.tec.nj.us"],
 a[href="https://www.ucvts.tec.nj.us/Page/471"] {
   color: #A4A4A4;
 }
 
-a[href="index.html"] {
-  color: #1CE3C5;
-}
 
-a[href="recipe1.html"] {
-  color: #1CE3C5;
-}
-
-a[href="recipe2.html"] {
-  color: #1CE3C5;
-}
-
-a[href="recipe3.html"] {
-  color: #1CE3C5;
-}
-
-a[href="recipe4.html"] {
-  color: #1CE3C5;
-}
-
-a[href="recipe5.html"] {
-  color: #1CE3C5;
-}
-
+a[href="index.html"],
+a[href="recipe1.html"],
+a[href="recipe2.html"],
+a[href="recipe3.html"],
+a[href="recipe4.html"],
+a[href="recipe5.html"],
 a[href="recipe6.html"] {
   color: #1CE3C5;
 }
 
-a[href="https://www.foodnetwork.com/recipes/banana-bread-recipe-1969572"] {
-  color: #ED9DFB;
-}
 
-a[href="https://www.onceuponachef.com/recipes/chocolate-mousse.html"] {
-  color: #ED9DFB;
-}
 
-a[href="https://www.livewellbakeoften.com/no-bake-oreo-cheesecake/"] {
-  color: #ED9DFB;
-}
-
-a[href="https://www.youtube.com/watch?v=3nsanqYnvis"] {
-  color: #ED9DFB;
-}
-
-a[href="https://www.homecookingadventure.com/recipes/chocolate-macarons"] {
-  color: #ED9DFB;
-}
-
+a[href="https://www.foodnetwork.com/recipes/banana-bread-recipe-1969572"],
+a[href="https://www.onceuponachef.com/recipes/chocolate-mousse.html"],
+a[href="https://www.livewellbakeoften.com/no-bake-oreo-cheesecake/"],
+a[href="https://www.youtube.com/watch?v=3nsanqYnvis"],
+a[href="https://www.homecookingadventure.com/recipes/chocolate-macarons"],
 a[href="https://www.aheadofthyme.com/2017/02/classic-french-macaron-with-vanilla-buttercream-filling/"] {
   color: #ED9DFB;
 }
